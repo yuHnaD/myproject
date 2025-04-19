@@ -1,2 +1,1 @@
-Hello Git
-Noi dung moi
+Thay doi tren master
